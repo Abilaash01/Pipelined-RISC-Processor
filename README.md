@@ -44,7 +44,7 @@ Pipeline registers carry both **data and control signals** between stages, allow
 ---
 
 ## Architecture
-
+![image](https://github.com/Abilaash01/Pipelined-RISC-Processor/blob/main/Single%20Cycle%20RISC%20Processor.png)
 *Figure 1: High-level 5-stage pipelined processor datapath.*
 
 ### Components
