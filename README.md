@@ -70,9 +70,6 @@ Three main types of hazards are addressed:
 ### Structural Hazards
 - Not present due to single shared datapath
 
-![Hazard Resolution](images/hazards.png)  
-*Figure 2: Example of forwarding and stall logic.*
-
 ---
 
 ## Verification
@@ -82,9 +79,6 @@ Benchmark programs were run to validate correct instruction execution:
 - Arithmetic operations (add, sub, or)
 
 Simulations show that instructions execute correctly in a pipelined manner while resolving hazards.
-
-![Simulation Waveform](images/simulation.png)  
-*Figure 3: Sample simulation waveform for benchmark program.*
 
 ---
 
