@@ -45,7 +45,6 @@ Pipeline registers carry both **data and control signals** between stages, allow
 
 ## Architecture
 
-![Datapath Overview](images/datapath.png)  
 *Figure 1: High-level 5-stage pipelined processor datapath.*
 
 ### Components
