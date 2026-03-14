@@ -86,7 +86,3 @@ Simulations show that instructions execute correctly in a pipelined manner while
 - Critical path determined using gate-level timing analysis
 - Maximum clock frequency calculated and verified
 - Comparison made against single-cycle processor design to show throughput improvements
-
----
-
-## Directory Structure
